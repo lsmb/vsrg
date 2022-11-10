@@ -1,0 +1,9 @@
+.vrg {
+  flex: 1;
+  position: absolute;
+  top: 100px;
+  bottom: 12%;
+  width: 100%;
+  background: orange;
+}
+

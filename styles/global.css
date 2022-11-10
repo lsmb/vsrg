@@ -1,0 +1,36 @@
+/* header { */
+/*   align-items: center; */
+/*   justify-content: center; */
+/*   font-size: calc(10px + 2vmin); */
+/*   color: white; */
+/*   height: 100px; */
+/* } */
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* .App-main { */
+/*   flex: 1; */
+/*   position: absolute; */
+/*   top: 100px; */
+/*   bottom: 12%; */
+/*   width: 100%; */
+/*   background: orange; */
+/* } */
+
+/* .App-link { */
+/*   color: #61dafb; */
+/* } */
+
+/* footer { */
+/*   position: fixed; */
+/*   bottom: 0; */
+/*   width: 100%; */
+/*   height: 12%; */
+/*   background-color: #282c34; */
+/*   color: blue; */
+/*   text-align: center; */
+/* } */
